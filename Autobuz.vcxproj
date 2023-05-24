@@ -140,10 +140,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\Grafica\Grafica_IIC_2011\Laboratoare_OpenGL\Laborator7\CUB\Autobuz.C" />
+    <ClCompile Include="Debug\Autobuz.C" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Downloads\Grafica\Grafica_IIC_2011\Laboratoare_OpenGL\Laborator7\CUB\GLOS.H" />
+    <ClInclude Include="Debug\GLOS.H" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
